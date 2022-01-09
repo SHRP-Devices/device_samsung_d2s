@@ -113,13 +113,6 @@ SHRP_EXTERNAL_ADDON_2_BTN_TEXT := "Patch now"
 SHRP_EXTERNAL_ADDON_2_SUCCESSFUL_TEXT := "Successfuly patched"
 SHRP_INC_IN_REC_EXTERNAL_ADDON_2 := true
 
-SHRP_EXTERNAL_ADDON_3_NAME := "Samsung Multidisabler - v3.1"
-SHRP_EXTERNAL_ADDON_3_INFO := "Simple Samsung security services disabler"
-SHRP_EXTERNAL_ADDON_3_FILENAME := "multidisabler-samsung-3.1.zip"
-SHRP_EXTERNAL_ADDON_3_BTN_TEXT := "Patch now"
-SHRP_EXTERNAL_ADDON_3_SUCCESSFUL_TEXT := "Successfuly patched"
-SHRP_INC_IN_REC_EXTERNAL_ADDON_3 := true
-
 # Include
 TARGET_SPECIFIC_HEADER_PATH := $(DEVICE_PATH)/include
 
